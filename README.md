@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RhutikJagtap
-👨🏻‍🎓 Student of Computer Science
-👨🏻‍💻 I have Learned C Language,Python,Php,Java,
-🖥 My goal to become Full Stack Developer
-💬 Ask me about Programming
-📫 How to reach me rhutikjagtap68@gmail.com
+-👨🏻‍🎓 Student of Computer Science
+-👨🏻‍💻 I have Learned C Language,Python,Php,Java,
+-🖥 My goal to become Full Stack Developer
+-💬 Ask me about Programming
+-📫 How to reach me rhutikjagtap68@gmail.com
 
 Show your Support(❤) by Star the Repository and Follow the Account
 
