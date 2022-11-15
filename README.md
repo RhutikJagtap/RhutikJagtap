@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RhutikJagtap
--👨🏻‍🎓 Student of Computer Science
+-.👨🏻‍🎓 Student of Computer Science
 -👨🏻‍💻 I have Learned C Language,Python,Php,Java,
 -🖥 My goal to become Full Stack Developer
 -💬 Ask me about Programming
