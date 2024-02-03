@@ -167,7 +167,7 @@ I'm highly passionate to self-learning things. I am a self-taught programmer who
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)][gog]
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+<!-- [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github] -->
 <!-- [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube] -->
 
 
@@ -181,7 +181,7 @@ I'm highly passionate to self-learning things. I am a self-taught programmer who
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/RhutikJagtap?tab=repositories
+<!-- [repo]: https://github.com/RhutikJagtap?tab=repositories -->
 
 <hr />
 
