@@ -72,10 +72,6 @@ I'm highly passionate to self-learning things. I am a self-taught programmer who
 <!-- [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black "Webpack")][repo] -->
 <!-- [![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white "Three.js")][repo] 
 
-## 📱 **MOBILE DEV**
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")][repo]
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React Native")][repo]
 
 <!-- [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")][repo] -->
 <!-- [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)][repo] --> 
