@@ -1,8 +1,7 @@
  <h1 align="center"> 💫 Hi 👋🏻, I'm Rhutik Jagtap</h1> </br>
 <h2 align="center"><b>Welcome to My GitHub Profile!🚀</b></h2>
 
-Hey there! Thanks for stopping by my GitHub Profile. Here, you'll find a collection of my coding journey, projects, and collaborations. Feel free to explore, contribute, and learn together with me. Your feedback and suggestions are always appreciated. Let's keep coding and building amazing things! 👨‍💻🔥
-Happy coding and have a fantastic day!
+I'm highly passionate to self-learning things. I am a self-taught programmer who learnsnew things from trial and error. I like web surfing a lot to acquire knowledge. I am trying to solve problems in creative way. It helps me more to learn the importance of applying classical strategies to modern-day projects.
 <hr>
 <br>
 
