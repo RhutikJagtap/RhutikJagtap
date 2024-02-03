@@ -1,7 +1,9 @@
  <h1 align="center"> 💫 Hi 👋🏻, I'm Rhutik Jagtap</h1> </br>
 <h2 align="center"><b>Welcome to My GitHub Profile!🚀</b></h2>
 
-I'm highly passionate to self-learning things. I am a self-taught programmer who learns new things from trial and error. I like web surfing a lot to acquire knowledge. I am trying to solve problems in creative way. It helps me more to learn the importance of applying classical strategies to modern-day projects.
+I'm highly passionate to self-learning things. I am a self-taught programmer who learns new things from trial and error. 
+I like web surfing a lot to acquire knowledge. I am trying to solve problems in creative way. 
+It helps me more to learn the importance of applying classical strategies to modern-day projects.
 <hr>
 <br>
 
@@ -82,8 +84,14 @@ I'm highly passionate to self-learning things. I am a self-taught programmer who
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "XD")][repo]
 [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)][repo]
 -->
+## ⚙️ **BACKEND DEV**
+
+[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "Nodejs")][repo]
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")][repo]
 
 ## 📅 **DATABASES**
+
+
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
 
