@@ -1,7 +1,7 @@
  <h1 align="center"> 💫 Hi 👋🏻, I'm Rhutik Jagtap</h1> </br>
 <h2 align="center"><b>Welcome to My GitHub Profile!🚀</b></h2>
 
-I'm highly passionate to self-learning things. I am a self-taught programmer who learnsnew things from trial and error. I like web surfing a lot to acquire knowledge. I am trying to solve problems in creative way. It helps me more to learn the importance of applying classical strategies to modern-day projects.
+I'm highly passionate to self-learning things. I am a self-taught programmer who learns new things from trial and error. I like web surfing a lot to acquire knowledge. I am trying to solve problems in creative way. It helps me more to learn the importance of applying classical strategies to modern-day projects.
 <hr>
 <br>
 
