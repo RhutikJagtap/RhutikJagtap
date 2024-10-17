@@ -17,9 +17,10 @@ It helps me more to learn the importance of applying classical strategies to mod
 
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
+• 🚀Personal portfolio <b>rhutikjagtap.netlify.app</b> <br/>
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 💬 Ask me about <b>Full Stack Java</b>.<br/>
 </span>
 
 <br />
