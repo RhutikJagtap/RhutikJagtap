@@ -104,6 +104,3 @@ I like web surfing a lot to acquire knowledge. I am trying to solve problems in 
 ## 🔝 TOP CONTRIBUTED REPOSITORY 
 ![](https://github-contributor-stats.vercel.app/api?username=RhutikJagtap&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
-
-
